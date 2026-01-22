@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+# Keep the CSV/DB if you want them on GitHub, otherwise add:
+# *.csv
+# *.db
