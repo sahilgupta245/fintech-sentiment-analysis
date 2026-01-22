@@ -1,3 +1,6 @@
+<img width="1286" height="718" alt="crypto_sentiment_analysis_dashboard" src="https://github.com/user-attachments/assets/5d5c7f7b-2668-442a-ab20-a048b37c2376" />
+
+
 Multi-Asset Fintech Sentiment & Price Analysis 📈🤖
 
 
