@@ -1,9 +1,6 @@
 <img width="1286" height="718" alt="crypto_sentiment_analysis_dashboard" src="https://github.com/user-attachments/assets/5d5c7f7b-2668-442a-ab20-a048b37c2376" />
 
 
-Multi-Asset Fintech Sentiment & Price Analysis 📈🤖
-
-
 🎯 Business Problem
 
 In the volatile world of Fintech and Cryptocurrency, investors struggle to keep up with the overwhelming volume of news. The key problem this project solves is: "Does news sentiment actually drive market price, or is it just noise?" 
